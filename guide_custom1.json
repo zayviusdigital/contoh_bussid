@@ -1,5 +1,6 @@
 {
   "pc": "com.zayviusdigital.guide40",
+  "link_new_app": "null",
   "switch_ads": "2",
   "interval_inter": "2",
   "unity_ads": [
@@ -23,14 +24,14 @@
       "id": "1",
       "tittle": "Guide 1",
       "link_html": "https://raw.githubusercontent.com/zayviusdigital/contoh_bussid/main/1.html",
-      "link_file": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf",
+      "link_file": "https://archive.org/download/sr-2-racing-rn-285-optimus-prime-20201206-t-140306-z-001/SR2%20Racing%20RN285%20Optimus%20Prime-20201206T140306Z-001.zip",
       "images": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtKY3fJsU2bvLuAI_oZWx6n6zJYKkFKZKNyw&usqp=CAU"
     },
     {
       "id": "2",
       "tittle": "Guide 2",
       "link_html": "https://raw.githubusercontent.com/zayviusdigital/contoh_bussid/main/1.html",
-      "link_file": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf",
+      "link_file": "https://archive.org/download/sr-2-racing-rn-285-optimus-prime-20201206-t-140306-z-001/SR2%20Racing%20RN285%20Optimus%20Prime-20201206T140306Z-001.zip",
       "images": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtKY3fJsU2bvLuAI_oZWx6n6zJYKkFKZKNyw&usqp=CAU"
     }
   ]
